@@ -40,6 +40,9 @@ out/
 /src/main/resources/log4j2.xml
 /src/main/resources/log4jdbc.log4j2.properties
 /src/main/resources/mybatis-config.xml
+/src/main/resources/logback-local.properties
+/src/main/resources/logback-spring.xml
+
 /apache-tomcat-9.0.68
 /gradle-lib
 vue/node_modules
